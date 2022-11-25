@@ -7,9 +7,7 @@ Autores:
 + Mauricio de Ariño
 + Armando Limón
 + Yhoaly Lorena Mondragón
-+ Arturo Liera
-
-Equipo Meriyein 2.0
++ Arturo Liera Bravo
 
 Última edición: 24 de noviembre de 2022
 
