@@ -113,7 +113,7 @@ A continuación, se asumió lo siguiente:
     1. El tutor puede configurar la asignatura que impartirá, los posibles horarios y, si es el caso, el costo por ese horario.
     2. Para comodidad del tutor se podrá modificar cualquiera de los campos ya mencionados.
 
-### 4.3 Aceptar y Cancelar Asesoría y Propuesta de 
+### 4.3 Aceptar y Cancelar Asesoría y Propuesta de Asesoría
 - **Descripción:** interfaz que permite a los estudiantes realizar cualquier modificación a una asesoría aceptada o por aceptar.
 - **Usuarios:** estudiantes.
 - **Prioridad:** alta.
@@ -121,6 +121,24 @@ A continuación, se asumió lo siguiente:
     1. El estudiante puede aceptar un horario ya definido por el tutor.
     2. El estudiante puede proponer un nuevo horario para la asesoría.
     3. El estudiante puede cancelar la asesoría.
+
+## 5. Requerimientos No Funcionales
+
+### 5.1 Requerimientos de Rendimiento
+
+- Sistema Windows 7 o superior.
+- Navegador con base Chromium 102 o superior.
+- Conexión estable de internet.
+
+### 5.2 Requerimientos de Seguridad
+
+- Para asegurar la privacidad de los datos se recomienda el uso de una conexión o red privada.
+- Se sugiere no guardar la contraseña en las opciones por defecto del navegador.
+- Solamente se podrá usar el correo institucional del ITAM para crear la cuenta y usar la aplicación.
+
+### 5.3 Calidad de Software
+
+**Kanik** es una plataforma que se adapta a las crecientes necesidades de los estudiantes de la Comunidad ITAM, pues constantemente se están agregando material adicional a los cursos como ejercicios de práctica, lecturas, etc., que ayuden a los estudiantes en su proceso de aprendizaje de cada una de las materias en las que requieran ayuda.
 
 # Plan de Calidad
 
@@ -151,4 +169,4 @@ Finalmente, como conocemos el alcance que puede llegar a tener la aplicación y 
 
 ---
 
-`Última actualización: 21 de noviembre de 2022`
+`Última actualización: noviembre 2022`
