@@ -30,6 +30,7 @@ El propósito de este documento es exponer el proceso de construcción del softw
 |Concepto|Definición|
 |--|--|
 |JS|JavaScript|
+|BD|Base de Datos|
 
 ### 1.3 Sugerencias de lectura
 
@@ -79,7 +80,47 @@ La aplicación **Kanik** debe cumplir con las siguientes funcionalidades:
 
 ### 2.5 Restricciones de Diseño e Implementación
 
+**Kanik** se encuentra aún en fase de desarrollo, por lo que muchas de las funcionalidades son meramente simuladas por la aplicación. Ejemplo de ello, son el registro de las asesorías, pues aunque funcionan todos los elementos de la aplicación, aún no se almacena la infromación en una base de datos.
 
+### 2.6 Supuestos
+
+A continuación, se asumió lo siguiente:
+- El ITAM nos permitió vincular las credenciales de los estudiantes a nuestra aplicación.
+- La aplicación funciona solamente con estudiantes activos, no se toma en cuenta a exalumnes.
+- El ITAM nos proporcionó una vista de las BD para consultar las asignaturas que se están impartiendo en el semestre en curso.
+- Las Bases de Datos de **Kanik** están en funcionamiento.
+
+## 3. Requerimientos de la Interfaz de Usuario
+
+## 4. Características del Sistema
+
+### 4.1 Inicio de Sesión
+
+- **Descripción:** interfaz que permite registrar las credenciales del ITAm para vincular y/o acceder a la plataforma.
+- **Usuarios:** tutores y estudiantes.
+- **Prioridad**: alta.
+- **Requerimientos funcionales:**
+    1. El usuario ingresará sus credenciales y, si son correctas, podrá acceder a la aplicación.
+    2. Si son erróneas mostrará un mensaje de error.
+    3. Si en el registro ya está registrado el correo se le notificará al usuario.
+
+### 4.2 Registro, Modificación y Cancelación de Asesorías
+
+- **Descripción:** interfaz que permite dar de alta una asesoría, modificarla y, si fuese necesario, eliminarla/cancelarla.
+- **Usuarios:** tutores.
+- **Prioridad:** alta.
+- **Requerimientos funcionales:**
+    1. El tutor puede configurar la asignatura que impartirá, los posibles horarios y, si es el caso, el costo por ese horario.
+    2. Para comodidad del tutor se podrá modificar cualquiera de los campos ya mencionados.
+
+### 4.3 Aceptar y Cancelar Asesoría y Propuesta de 
+- **Descripción:** interfaz que permite a los estudiantes realizar cualquier modificación a una asesoría aceptada o por aceptar.
+- **Usuarios:** estudiantes.
+- **Prioridad:** alta.
+- **Requerimientos funcionales:**
+    1. El estudiante puede aceptar un horario ya definido por el tutor.
+    2. El estudiante puede proponer un nuevo horario para la asesoría.
+    3. El estudiante puede cancelar la asesoría.
 
 # Plan de Calidad
 
