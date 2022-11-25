@@ -4,7 +4,7 @@
 
 Repositorio que contiene la aplicación Kanik, el software para organizar asesorías entre estudiantes del ITAM.
 
-**Equipo:** Enchiladas Rojas
+**Equipo:** Enchiladas Verdes
 
 **Integrantes:**
 - Yohaly Lorena Mondragón Sandoval
