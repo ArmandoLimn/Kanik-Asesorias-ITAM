@@ -172,5 +172,6 @@ Finalmente, como conocemos el alcance que puede llegar a tener la aplicación y 
 # Propuesta económica
 
 ---
+Después de una investigación sobre aplicaciones con funcionalidades similares, se concluyó que el modelo económico de **Kanik** se basará en los modelos financieros de aplicaciones con esquemas semejantes, es decir, aplicaciones en las que se ofrecen servicios por y para usuarios. Un ejemplo de las aplicaciones investigadas que se tomaron como referencia es Airbnb, la cual cobra un cierto porcentaje de comisión al anfitrión que ofrece el inmueble y otro porcentaje al huésped que lo ocupa. 
 
 `Última actualización: noviembre 2022`
