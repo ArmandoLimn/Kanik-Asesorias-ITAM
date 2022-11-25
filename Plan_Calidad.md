@@ -15,12 +15,12 @@ Equipo Meriyein 2.0
 
 ## 2. Referencias
 
-Este documento está basado en los estándares de calidad del IEEE-829 y en el SRS que puede ser consultado [aquí](https://github.com/Asesorias-ITAM/AsesoriasITAM/blob/main/SRS.md).
+Este documento está basado en los estándares de calidad del IEEE-829 y en el SRS que puede ser consultado [aquí](https://github.com/ArmandoLimn/Kanik-Asesorias-ITAM).
 
 ## 3. Introducción
 
 # Elementos a probar
-Se va a probar la correcta implementación del software en la página de AsesoríasITAM, esto incluye todas las pantallas en modo Asesor y modo No Asesor 
+Se va a probar la correcta implementación del software en la página de AsesoríasITAM.
 * Validaciones del sistema 
 * Funcionalidades relacionadas con la Base de datos
 * UI de cada pantalla
@@ -41,8 +41,6 @@ Se va a probar la correcta implementación del software en la página de Asesor�
 * Se pueden iniciar múltiples sesiones distintas en un mismo navegador
 * Dependemos de AWS
 * regargar
-
-# Sobre las pruebas
 
 ## 6. Pruebas que se van a realizar
 Funcionamiento de la aplicación desde la perspectiva del asesor y el no asesor.
@@ -69,8 +67,6 @@ Los pasos a seguir son:
 9. Repetir pasos 4 a 8 para el resto de subfucionalidades
 10. Hacer pruebas con la funcionalidad completa.
 
-# Las pruebas
-
 ## 9. Criterios de éxito y fracaso
 | Funcionalidad     | Escenario   | Semáforo      |
 |-------------------|-------------|---------------|
@@ -80,8 +76,6 @@ Los pasos a seguir son:
 | Búsqueda de grupos      | Busco grupos para la materia Economía II                                                            | Verde    |
 | Creación de grupos      | Al crear un grupo quiero poner una foto de mi horario                                               | Rojo | 
 | Suscripción a grupos    | Me inscribo a un grupo por accidente y lo quiero dar de baja                                        | Verde |
-
-# Entregables
 
 ## 10. Criterios de suspensión y de reanudación de pruebas
 
@@ -108,8 +102,6 @@ Los pasos a seguir son:
 
 Para realizar las pruebas se proporcionará una base de datos inicial para experimentar, también se proporcionaran cuentas de prueba para realizar las pruebas.
 
-# Especificaciones de la realización de las pruebas
-
 ## 14. Necesidades de equipo y entrenamiento
 * Se requiere haber leído el documento README de este proyecto que se puede encontrar [aquí](https://github.com/Asesorias-ITAM/AsesoriasITAM/blob/main/README.md)
 * Se va a proporcionar una versión del código para realizar las pruebas y realizar cambios sin modificar inmediatamente el código principal
@@ -117,10 +109,10 @@ Para realizar las pruebas se proporcionará una base de datos inicial para exper
 
 ## 15 Responsabilidades
 
-+ Rodrigo Barrera, está a cargo y es quién decide decide tanto los riesgos del proyecto como el alcance de las pruebas.
-+ Fabio Calo dará el entrenamiento para utilizar la aplicación y será quien proporcionará los elementos para realizar las pruebas.
-+ Alejandro Uribe se encargará de diseñar las pruebas y organizar tiempos para realizarlas.
-+ Axel Flores tomará las decisiones sobre cualquier cosa que no esté escrita en este plan de calidad
++ Yhoaly Mondragón, está a cargo y es quién decide decide tanto los riesgos del proyecto como el alcance de las pruebas.
++ Arturo Liera dará el entrenamiento para utilizar la aplicación y será quien proporcionará los elementos para realizar las pruebas.
++ Armando Limón se encargará de diseñar las pruebas y organizar tiempos para realizarlas.
++ Mauricio de Ariño tomará las decisiones sobre cualquier cosa que no esté escrita en este plan de calidad
 
 ## 16. Itinerario
 Al estar usando la metodología Feature Driven, las pruebas se realizarán al día siguiente de haber acabado una Feature para asegurar su correcta implementación.
@@ -135,11 +127,5 @@ Al estar usando la metodología Feature Driven, las pruebas se realizarán al d�
 ## 18. Personas que pueden aprobar las pruebas
 Para poder pasar a la siguiente parte del desarrollo, necesitamos la aprobación de alguno de nuestros clientes:
 * Paulina Bustos
+* Arturo Fernández
 * Alejandro Baillères
-
-## 19. Glosario
-
-* ITAM - Instituto Tecnológico Autónomo de México
-* Grey Box Testing - Pruebas tanto al código como a la interfaz, teniendo ambos disponibles para editar
-* AWS - Amazon Web Services
-* MVP - Entregable con funcionalidad mínima
