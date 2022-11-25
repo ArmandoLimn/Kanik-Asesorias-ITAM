@@ -1,7 +1,10 @@
-Arquitectura: Microservicios 
+# Arquitectura: Microservicios 
 
+======
 
-Justificación: Elegimos microservicios porque creemos que es la que más beneficios tendrá cuando creemos nuestra aplicación, tanto en producción, 
+**Justificación:**
+
+Elegimos microservicios porque creemos que es la que más beneficios tendrá cuando creemos nuestra aplicación, tanto en producción, 
 como para mantenimiento. Creemos que podemos hacer cada requerimiento del proyecto su propio microservicio y que la comunicación que tendrá que 
 haber entre los servicios para que funcionen correctamente se puede hacer a través de una o varias interfaces pequeñas. Por otro lado, microservicios 
 principalmente tiene un falla en el aspecto de performance, pero consideramos que esto no será un problema en nuestro caso debido a que la aplicación 
