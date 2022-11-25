@@ -59,7 +59,7 @@ mismas.
 La aplicación **Kanik** es distinta de otras aplicaciones ya que se enfoca en el alumnado del ITAM, por lo que, el público objetivo es bien conocido y 
 se sabe una gran parte de las necesidades de estudio.
 
-### 2.2 Funciones del producto
+### 2.2 Funciones del producto y Casos de Uso
 
 La aplicación **Kanik** debe cumplir con las siguientes funcionalidades:
 
@@ -67,6 +67,8 @@ La aplicación **Kanik** debe cumplir con las siguientes funcionalidades:
 - Los tutores deben poder registrar, modificar y cancelar sus asesorías (horario, materias, costo).
 - Los estudiantes deben poder aceptar, cancelar o proponer un nuevo horario para las asesorías.
 - Los estudiantes pueden realizar una búsqueda de asesorías mediante filtros (tutor, asignatura, costo, etc).
+
+Puede consultarse los casos de uso en el siguiente link: https://github.com/ArmandoLimn/Kanik-Asesorias-ITAM/edit/main/CasosUso.md
 
 ### 2.3 Clases de usuario y características
 
