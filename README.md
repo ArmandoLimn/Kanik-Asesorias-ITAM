@@ -38,7 +38,7 @@ El documento que se está presentando forma parte de la documentación oficial d
 
 ### 1.4 Alcance del producto
 
-**Kanik** busca fomentar el estudio entre estudiantes que están por terminar sus carreras y aquellos recién inician con el objetivo de facilitar el entendimiento de las asignaturas, así como proveer el material necesario para las mismas.
+Actualmente no existe una herramienta respaldada oficialmente por el ITAM la cual tome como enfoque las relaciones entre estudiantes al servir como plataforma para sus necesidades académicas. **Kanik** busca acomodar esta carencia fomentando el estudio entre estudiantes que están por terminar sus carreras y aquellos recién inician con el objetivo de facilitar el entendimiento de las asignaturas, así como proveer el material necesario para las mismas.
 
 ### 1.5 Referencias
 
