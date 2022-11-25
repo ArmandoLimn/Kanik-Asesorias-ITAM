@@ -101,8 +101,6 @@ A continuación, se asumió lo siguiente:
 - El ITAM nos proporcionó una vista de las BD para consultar las asignaturas que se están impartiendo en el semestre en curso.
 - Las Bases de Datos de **Kanik** están en funcionamiento.
 
-## 3. Requerimientos de la Interfaz de Usuario
-
 ## 4. Características del Sistema
 
 ### 4.1 Inicio de Sesión
