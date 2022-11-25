@@ -1,6 +1,5 @@
 # Arquitectura: Microservicios 
 
-======
 
 **Justificación:**
 
