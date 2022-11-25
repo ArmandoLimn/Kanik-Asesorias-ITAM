@@ -149,7 +149,11 @@ A continuación, se asumió lo siguiente:
 
 ---
 
-La aplicación **Kanik** utiliza una pequeña variación de la arquitectura por microservicios
+La aplicación **Kanik** utiliza una pequeña variación de la arquitectura por microservicios. Por un lado, **Kanik** busca crecer y cada vez más estudiantes tengan acceso a estas herramientas y materiales adicionales que son de gran ayuda. Por el otro, requerimos de un desarrollo rápido y eficiente, así como de una tanda de pruebas rápidas.
+
+Asimismo, como cada servicio es independiente uno del otro, es mucho más sencillo administrarlo, pues si encontramos algún error es fácil encontrarlo y solucionarlo.
+
+Por otra parte, incluye un fragmento de arquitectura API REST ya que requerimos de algunas funcionalidades que nos ofrece Google, sobre todo, al momento de agendar, reprogramar o cancelar una asesoría.
 
 # Metodología
 
