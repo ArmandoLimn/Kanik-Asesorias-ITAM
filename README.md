@@ -38,7 +38,7 @@ El documento que se está presentando forma parte de la documentación oficial d
 
 ### 1.4 Alcance del producto
 
-Actualmente no existe una herramienta respaldada oficialmente por el ITAM la cual tome como enfoque las relaciones entre estudiantes al servir como plataforma para sus necesidades académicas. **Kanik** busca acomodar esta carencia fomentando el estudio entre estudiantes que están por terminar sus carreras y aquellos recién inician con el objetivo de facilitar el entendimiento de las asignaturas, así como proveer el material necesario para las mismas.
+Actualmente no existe una herramienta respaldada oficialmente por el ITAM la cual tome como enfoque las relaciones entre estudiantes al servir como plataforma para sus necesidades académicas. **Kanik** busca acomodar esta carencia fomentando el estudio entre estudiantes que están por terminar sus carreras y aquellos recién inician, con el objetivo de facilitar el entendimiento de las asignaturas, así como proveer el material necesario para las mismas.
 
 ### 1.5 Referencias
 
@@ -48,7 +48,7 @@ Actualmente no existe una herramienta respaldada oficialmente por el ITAM la cua
 
 ### 2.1 Perspectiva del producto
 
-La aplicación **Kanik** es distinta de otras aplicaciones ya que se enfoca en el alumnado del ITAM, por lo que, el público objetivo es bien conocido y se sabé una gran parte de las necesidades de estudio.
+La aplicación **Kanik** es distinta de otras aplicaciones ya que se enfoca en el alumnado del ITAM, por lo que, el público objetivo es bien conocido y se sabe una gran parte de las necesidades de estudio.
 
 ### 2.2 Funciones del producto
 
@@ -57,16 +57,16 @@ La aplicación **Kanik** debe cumplir con las siguientes funcionalidades:
 - Los usuarios deben poder vincular su cuenta del ITAM, iniciar y cerrar sesión.
 - Los tutores deben poder registrar, modificar y cancelar sus asesorías (horario, materias, costo).
 - Los estudiantes deben poder aceptar, cancelar o proponer un nuevo horario para las asesorías.
-- Los estudiantes pueden realizar una búsqueda de asesorías mediante filtros (tutor, asignatura, costo, etc.)
+- Los estudiantes pueden realizar una búsqueda de asesorías mediante filtros (tutor, asignatura, costo, etc).
 
 ### 2.3 Clases de usuario y características
 
 - **Tutores:**
-    - Son los estudiantes que ofrecen e imparten las asesorías.
+    - Los estudiantes son quienes ofrecen e imparten las asesorías.
     - Pueden cobrar o no por sus asesorías.
     - Pueden registrar todas las asesorías que sean necesarias.
 - **Estudiantes:**
-    - Son los estudiantes que solicitan las asesorías.
+    - Los estudiantes son quienes solicitan las asesorías.
     - Pueden proponer un nuevo horario para la asesoría.
     - Pueden cancelar su asesoría.
 
@@ -86,7 +86,7 @@ La aplicación **Kanik** debe cumplir con las siguientes funcionalidades:
 
 A continuación, se asumió lo siguiente:
 - El ITAM nos permitió vincular las credenciales de los estudiantes a nuestra aplicación.
-- La aplicación funciona solamente con estudiantes activos, no se toma en cuenta a exalumnes.
+- La aplicación funciona solamente con estudiantes activos, no se toma en cuenta a miembros de la comunidad de exalumnos.
 - El ITAM nos proporcionó una vista de las BD para consultar las asignaturas que se están impartiendo en el semestre en curso.
 - Las Bases de Datos de **Kanik** están en funcionamiento.
 
@@ -100,7 +100,7 @@ A continuación, se asumió lo siguiente:
 - **Usuarios:** tutores y estudiantes.
 - **Prioridad**: alta.
 - **Requerimientos funcionales:**
-    1. El usuario ingresará sus credenciales y, si son correctas, podrá acceder a la aplicación.
+    1. El usuario ingresará sus credenciales y, de ser correctas, podrá acceder a la aplicación.
     2. Si son erróneas mostrará un mensaje de error.
     3. Si en el registro ya está registrado el correo se le notificará al usuario.
 
